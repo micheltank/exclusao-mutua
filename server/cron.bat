@@ -1,0 +1,1 @@
+* * * * 0 java -jar server.jar
